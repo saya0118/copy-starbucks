@@ -1,0 +1,9 @@
+.logo{
+    height: 51px;
+    width: 51px;
+}
+
+.block{
+    display: block;
+    align-items: center;
+}
